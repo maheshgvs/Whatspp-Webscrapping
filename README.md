@@ -9,4 +9,4 @@ Steps to run the Whatsapp.js program
 3.  Run the program using command "node.whatsapp.js"
 4.  once the whatsapp web launched, Scan the QR code from your whatsapp account
 5.  Target whatsapp group will be selected and browser will closed automatically
-6.  Results.json file will be generated and whatsapp group messages stored on this json file
+6.  Results.json file will be generated and whatsapp group messages will store on this json file
