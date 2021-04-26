@@ -1,0 +1,9 @@
+{
+    "name": "whatsapp-webscrapping",
+    "scripts": {
+        "start": "node whatsapp.js"
+    },
+    "devDependencies": {
+        "playwright": "0.10.0"
+    }
+}
